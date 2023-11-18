@@ -1,0 +1,9 @@
+beautifulsoup4 · PyPI
+Beautiful Soup 4.12.0 documentation - Crummy
+Beautiful Soup: We called him Tortoise because he taught us.
+Beautiful Soup: Build a Web Scraper With Python
+Implementing Web Scraping in Python with BeautifulSoup
+Beautiful Soup - Quick Guide - Tutorialspoint
+Beautiful Soup Tutorial - How to Parse Web Data With Python
+Beautiful Soup 4 Tutorial #1 - Web Scraping With Python - YouTube
+A Step-by-Step Guide to Web Scraping with Python and Beautiful ...
